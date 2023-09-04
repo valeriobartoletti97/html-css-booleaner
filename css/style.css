@@ -43,4 +43,19 @@ figure{
     max-height: 567px;
 }
 
+h3{
+    margin-top: 30px;
+}
 
+.highlighted{
+    background-color: yellow;
+}
+
+.list{
+    margin-left: 0%;
+    padding-inline-start: 20px;
+}
+
+table{
+    margin-top: 20px;
+}
