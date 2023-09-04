@@ -78,3 +78,35 @@ td{
 .table-blue{
     background-color: #b1e5f2;
 }
+
+p.grey{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.bottom{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.related-img1{
+    background-image: url("../img/monitor.jpg");
+    height: 208px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    font-size: 28px;
+    background-repeat: no-repeat;
+}
+
+.related-img2{
+    margin-top: 20px;
+    background-image: url("../img/graph.jpg");
+    height: 208px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    font-size: 28px;
+    background-repeat: no-repeat;
+}
