@@ -59,3 +59,22 @@ h3{
 table{
     margin-top: 20px;
 }
+
+th, td{
+    text-align: left;
+    width: 600px;
+    font-size: large;
+}
+
+thead{
+    color: white;
+    background-color: #20a9e5;
+}
+
+td{
+    font-weight: bold;
+}
+
+.table-blue{
+    background-color: #b1e5f2;
+}
