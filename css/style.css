@@ -33,3 +33,14 @@ header{
     font-family: 'Roboto', sans-serif;
     color: #adadad;
 }
+
+figure{ 
+    margin-top: 20px;
+}
+
+.tim-image{
+    width: 48%;
+    max-height: 567px;
+}
+
+
